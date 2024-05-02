@@ -1,0 +1,183 @@
+/* FIGMA */
+
+
+/* Estilos generales */
+
+body {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    color: #8491A0;
+    background-color: #161513;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.site-section {
+    margin: 98px auto;
+}
+
+.site-column {
+    max-width: 810px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.contenedor {
+    width: 100%;
+    max-width: 700px;
+    background-color: #161513;
+    margin: 0 auto;
+}
+
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 3.43rem;
+    text-align: center;
+    line-height: 1.2;
+}
+
+span {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: #f206da;
+    font-size: 3.43rem;
+    text-align: center;
+    line-height: 1.2;
+}
+
+
+p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.125rem;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+
+img {
+    display: block;
+    height: 220px;
+    margin: 0 auto;
+    /*border-radius: 50%;*/
+}
+
+
+
+section {
+    display: block;
+    border-bottom-width: 3px;
+    padding: 2rem 1.5rem 4rem 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+
+}
+
+
+
+article ul {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    justify-content:center;
+}
+
+
+.button-link {
+    display: block;
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 3.1rem;
+    padding: 1rem 1.75rem;
+    margin-top: 3rem;
+
+}
+
+.button-link.light {
+    color: #222222;
+    background-color: #ffffff;
+}
+
+
+
+
+
+/* Header */
+
+header {
+    background-color: #222222;
+    height: 82px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+header img {
+    width: 80px;
+    height: auto;
+}
+
+header a {
+    font-size: 0.9375rem;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    /* 2% de interletrado */
+    color: #ffffff;
+}
+
+header ul {
+    display: flex;
+    gap: 70px;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+/* Experience with*/
+
+
+h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.25rem;
+    color: #C5C5C5;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+section ul {
+    display: flex;
+    align-items: center;
+    gap: 60.45px;
+    justify-content: center; 
+}
+
+a img {
+    height: 42px;
+    width: auto;
+    margin: 0 auto;
+}
+
+
+
